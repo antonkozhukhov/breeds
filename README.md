@@ -1,1 +1,1 @@
-antonkozhukhov/github.io/breeds
+https://antonkozhukhov/github.io/breeds
